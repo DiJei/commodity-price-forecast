@@ -1,0 +1,10 @@
+pandas==1.0.3
+GoogleNews==1.5.9
+torch==1.8.1
+torchvision==0.9.1
+scikit-image==0.17.2
+scikit-learn==0.21.0
+scipy==1.4.1
+plotly==4.8.2
+plotly-express==0.4.1
+matplotlib==2.2.4
